@@ -1,7 +1,7 @@
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------
 # Data Preprocessing using Pipeline in Pandas
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------
-## Pipe function
+## Pipe function:
 - a **Pandas built-in function**
 - used to **combine and execute multiple functions into a single pipeline by passing the result of the previous function to the next one in the chain**
 - applies **chainable functions that expect Series or DataFrames**
